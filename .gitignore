@@ -34,7 +34,7 @@ node_modules/
 *.log
 
 # Archivos de configuración de Serenity BDD
-serenity.properties
+#serenity.properties// activar esta si no se quiere agregar el archivo propeties en proximos commit
 
 # Evitar ignorar el archivo jar envoltorio de Maven (.jar archivos son generalmente ignorados) // Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !.mvn/wrapper/maven-wrapper.jar
