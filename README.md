@@ -28,7 +28,7 @@ Genera el informe Serenity BDD, no ejecuta las pruebas en navegador
 El comando proporcionado anteriormente para la ejecución de las pruebas, generará un informe de prueba de Serenity **index.html** en el directorio target\site\serenity\index.html
 
 ## Navegador Web 🌐
-- En la clase se tiene la anotacion @Managed(driver = "chrome") indica que las pruebas se ejecutarán utilizando el navegador Google Chrome, sin embargo, se puede modificar para que se ejecute la prueba en otros navegadores: Firefox ("firefox"), Edge ("edge"), Safari ("safari"), entre otros.
+- En la clase se tiene la anotacion @Managed(driver = "chrome") indica que las pruebas se ejecutarán utilizando el navegador Google Chrome, sin embargo, se puede modificar para que se ejecute la prueba en otros navegadores: Firefox ("firefox"), Edge ("edge"), Safari ("safari"), entre otros..
 - El proyecto no hace uso de drivers .exe para abrir un navegador. 
 
 ## Archivos de configuración entorno de ejecución de las pruebas 🗒️
